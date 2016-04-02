@@ -23,7 +23,7 @@ To save a game, click the save button. The app will create a file called save1.g
 <img alt="initial screen" src="screenshots/save.PNG" width="30%">
 
 ## Load
-To load a game, click the load button. The current game will be abandoned. Make sure you have saved games before load it (make sure the file save1.gomoku exists in the same directory), if not it will just restart the game.
+To load a game, click the load button. The current game will be abandoned. Make sure you have saved games before loading it (make sure the file save1.gomoku exists in the same directory), if not it will just restart the game.
 
 <img alt="initial screen" src="screenshots/load.PNG" width="30%">
 
@@ -33,4 +33,4 @@ The game will stop when one of the player succeeds in putting the button a five 
 <img alt="initial screen" src="screenshots/home.PNG" width="30%">
 
 ## Enjoy :)
-If you have something in mind about this game, please contact me to rezaqorib96[at]gmail[dot]com.
+If you have something in mind about this game, please contact me to :envelope: rezaqorib96[at]gmail[dot]com :smile:.
