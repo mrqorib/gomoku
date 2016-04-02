@@ -3,7 +3,7 @@ Gomoku game or also known as Five in a Row (see reference: https://en.wikipedia.
 
 ## Start
 This game needs JRE 1.7 (Preferable java 1.8) to run.
-Star by double click the gomoku.jar file or typing
+Start by double click the gomoku.jar file or typing
 ```
 java -jar gomoku.jar
 ```
@@ -27,3 +27,10 @@ To load a game, click the load button. The current game will be abandoned. Make 
 
 <img alt="initial screen" src="screenshots/load.PNG" width="30%">
 
+## Win
+The game will stop when one of the player succeeds in putting the button a five in a row whether vertically, horizontally or diagonally.
+
+<img alt="initial screen" src="screenshots/home.PNG" width="30%">
+
+## Enjoy :)
+If you have something in mind about this game, please contact me to rezaqorib96[at]gmail[dot]com.
