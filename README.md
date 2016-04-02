@@ -1,4 +1,4 @@
 # gomoku
 Gomoku game
 
-![home image](gomoku/screenshots/home.PNG)
+![home image](screenshots/home.PNG)
