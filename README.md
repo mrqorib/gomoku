@@ -2,7 +2,7 @@
 Gomoku game or also known as Five in a Row (see reference: https://en.wikipedia.org/wiki/Gomoku). Written fully in Java
 
 ## Start
-This game needs JRE 1.7 (Preferable java 1.8) to run.
+This game needs JRE 1.7 (Preferably JRE 1.8) to run.
 Start by double click the gomoku.jar file or typing
 ```
 java -jar gomoku.jar
